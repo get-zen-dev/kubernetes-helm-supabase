@@ -1,3 +1,5 @@
+This if the fork of [github.com/supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes).    
+Reason: to add settings for over `stackgres` working.
 # Supabase Kubernetes
 
 This repository contains the charts to deploy a [Supabase](https://github.com/supabase/supabase) instance inside a Kubernetes cluster using Helm 3.
